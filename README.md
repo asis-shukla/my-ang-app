@@ -1,4 +1,7 @@
-# MyAngApp
+# Home Search App
+
+# Live Version of this App is deployed on the URL [Homes App](https://homes-app.netlify.app/)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
